@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\One8-backend.props" />
+</Project>

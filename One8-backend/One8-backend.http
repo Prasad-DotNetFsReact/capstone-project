@@ -1,0 +1,6 @@
+@One8_backend_HostAddress = http://localhost:5202
+
+GET {{One8_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
